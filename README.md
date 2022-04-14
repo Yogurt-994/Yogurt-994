@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Kierti/Kierti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a normal but a little handsome student.
-- 🌱 I’m currently learning STM32/Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning MCU,Python,Socket.
+- 🤔 I’m looking for whatever we will be.
+- 💬 Ask me about QQ,WeChat,Email.
+- 😄 Pronouns: Yogurt
+
