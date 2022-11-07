@@ -9,7 +9,7 @@
 ![Yogurt's GitHub status]<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" />
 
 - 🔭 I’m currently working as a plain but a little handsome student.
-- 🌱 I’m currently learning MCU,FPGA,Arduino_ESP8266/ESP32.
+- 🌱 I’m currently learning MCU,FPGA and Arduino_ESP8266/ESP32.
 - 🤔 I’m looking for whatever we will be.
 - 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
