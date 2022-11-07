@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as a plain but a little handsome student.
 - 🌱 I’m currently learning MCU,FPGA,Arduino_ESP8266/ESP32.
 - 🤔 I’m looking for whatever we will be.
-- 💬 How to reach methapdarely@gmail.com.
+- 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
 
 
