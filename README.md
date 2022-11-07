@@ -13,13 +13,14 @@
 
 ![Yogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical) 
 
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Yogurt-994/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOgurt-994&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Yogurt-994/photos/images/202108300312623.png" />
-</div>
-<br>
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=YOgurt-994&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
