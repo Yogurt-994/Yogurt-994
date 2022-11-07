@@ -8,7 +8,9 @@
 
 ![Yogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg)
+
+Welcome!
+my ![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg) visitor
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
