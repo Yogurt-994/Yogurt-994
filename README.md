@@ -8,8 +8,7 @@
 - 💬 Ask me about QQ,WeChat,Email(thapdarely@gmail.com).
 - 😄 Pronouns: Yogurt
 
-![Yogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogurt-994&layout=compact)](https://github.com/Yogurt-994/github-readme-stats)
-
+![Yogurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical) 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
