@@ -4,13 +4,9 @@
 ### Hi there 👋
 - Welcome!
 - My ![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg) visitor
-- 
-<a href="#">  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&theme=onedark" />
-</a>
 
 - 🔭 I’m currently working as a plain but a little handsome student.
-- 🌱 I’m currently learning MCU,FPGA,Arduino_ESP8266.
+- 🌱 I’m currently learning MCU,FPGA,Arduino_ESP8266/ESP32.
 - 🤔 I’m looking for whatever we will be.
 - 💬 Ask me about QQ,WeChat,Email(thapdarely@gmail.com).
 - 😄 Pronouns: Yogurt
