@@ -6,7 +6,7 @@
 - My ![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg) visitor
 
 <!-- Any image aligned to the right. Beware the width -->
-![Yogurt's GitHub status]<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" />
+<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" />
 
 - 🔭 I’m currently working as a plain but a little handsome student.
 - 🌱 I’m currently learning MCU,FPGA and Arduino_ESP8266/ESP32.
