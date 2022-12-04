@@ -16,6 +16,7 @@
 
 
 <!-- GitHub Activity Graph -->
+<!--
 <table align="center">
   <tr>
     <td colspan="2">
@@ -23,6 +24,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
