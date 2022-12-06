@@ -16,7 +16,7 @@
 
 
 <!-- GitHub Activity Graph -->
-<!--
+
 <table align="center">
   <tr>
     <td colspan="2">
@@ -24,7 +24,7 @@
     </td>
   </tr>
 </table>
--->
+
 <!-- [yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
 
 <!--START_SECTION:waka-->
