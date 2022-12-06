@@ -16,7 +16,7 @@
 
 
 <!-- GitHub Activity Graph -->
-
+<!--
 <table align="center">
   <tr>
     <td colspan="2">
