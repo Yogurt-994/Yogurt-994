@@ -1,5 +1,5 @@
 <!-- 贪吃蛇代码贡献图 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### Hi there 👋
 - Welcome!
@@ -9,7 +9,8 @@
 <img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" />
 
 - 🔭 I’m currently working as a plain but a little handsome student.
-- 🌱 I’m currently learning MCU,FPGA and Arduino_ESP8266/ESP32.
+- 🔭 I’m currently mastering MCU,Arduino.
+- 🌱 I’m currently learning Rust.
 - 🤔 I’m looking for whatever we will be.
 - 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
