@@ -6,7 +6,7 @@
 <!-- - My ![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg) visitor -->
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" />
+<!-- <img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&theme=radical" /> -->
 
 - 🔭 I’m currently working as a plain but a little handsome student.
 - 🌱 I’m currently learning Rust.
@@ -16,6 +16,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yogurt-994&show_icons=true&locale=en&layout=compact" alt="Yogurt-994" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&locale=en" alt="Yogurt-994" />
 </a>
 
 <!-- GitHub Activity Graph -->
