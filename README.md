@@ -14,6 +14,9 @@
 - 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=classmatelin&show_icons=true&locale=en&layout=compact" alt="Yogurt-994" />
+</a>
 
 <!-- GitHub Activity Graph -->
 <!--
