@@ -2,7 +2,7 @@
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 ## Hi there 👋
-<!-- [![Header](header.gif "Header")](https://Yogurt-994.github.io) -->
+[![Header](header.gif "Header")](https://Yogurt-994.github.io)
 - Welcome!
 <!-- - My ![Visitor Count](https://profile-counter.glitch.me/Yogurt-994/count.svg) visitor -->
 
