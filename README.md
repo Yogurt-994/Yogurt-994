@@ -14,13 +14,29 @@
 - 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+## &#x1f4c8; Github Stats
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Yogurt-994.Yogurt-994)
+![](https://img.shields.io/github/followers/Yogurt-994?style=social)
+![](https://img.shields.io/github/forks/Yogurt-994/Yogurt-994.github.io?style=social)
+![](https://img.shields.io/github/stars/Yogurt-994?style=social)
+![](https://img.shields.io/github/watchers/Yogurt-994/Yogurt-994.github.io?style=social)
+
+<a href="https://github.com/Yogurt-994/Yogurt-994">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yogurt-994&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+</a>
+<a href="https://github.com/Yogurt-994/Yogurt-994">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogurt-994&theme=gotham&show_icons=true)" alt="Yogurt's GitHub Stats" />
+</a>
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yogurt-994&show_icons=true&locale=en&layout=compact" alt="Yogurt-994" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&locale=en" alt="Yogurt-994" />
 </a>
-
+ -->
 <!-- GitHub Activity Graph -->
 <!--
 <table align="center">
