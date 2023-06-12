@@ -16,7 +16,7 @@
 
 ## &#x1f4c8; Github Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yogurt-994.Yogurt-994)
+![](https://visitor-badge.glitch.me/badge?page_id=Yogurt-994.Yogurt-994)
 ![](https://img.shields.io/github/followers/Yogurt-994?style=social)
 ![](https://img.shields.io/github/forks/Yogurt-994/Yogurt-994.github.io?style=social)
 ![](https://img.shields.io/github/stars/Yogurt-994?style=social)
@@ -29,25 +29,6 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogurt-994&theme=gotham&show_icons=true)" alt="Yogurt's GitHub Stats" />
 </a>
 
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yogurt-994&show_icons=true&locale=en&layout=compact" alt="Yogurt-994" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yogurt-994&show_icons=true&locale=en" alt="Yogurt-994" />
-</a>
- -->
-<!-- GitHub Activity Graph -->
-<!--
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Yogurt-994&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- [yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
