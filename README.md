@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yogurt-994&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
 <a href="https://github.com/Yogurt-994/Yogurt-994">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogurt-994&theme=gotham&show_icons=true)" alt="Yogurt's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogurt-994&theme=gotham&show_icons=true&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="Yogurt's GitHub Stats" />
 </a>
 
 
