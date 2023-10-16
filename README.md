@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as a plain but a little handsome student.
 - 🌱 I’m currently learning Rust.
 - 🤔 I’m looking for whatever we will be.
-- 💬 How to reach me: thapdarely@gmail.com|yogurt3@foxmail.com.
+- 💬 How to reach me: thapdarely@gmail.com.
 - 😄 Pronouns: Yogurt
 
 ## &#x1f4c8; Github Stats
